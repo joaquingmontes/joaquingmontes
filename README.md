@@ -7,7 +7,6 @@ Especializado en arquitecturas escalables, desarrollo de sistemas empresariales 
 Experiencia en produccion con stacks modernos: **Remix.js · React · TypeScript · .NET · Docker · AWS · Cloudflare**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquinmontes10-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquinmontes10)
-[![Email](https://img.shields.io/badge/Email-Joacotemonts89@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Joacotemonts89@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=joaquingmontes&label=visitas&color=0e75b6&style=flat)
 
 </div>
