@@ -42,7 +42,7 @@ Plataforma full-stack individual desplegada en **Cloudflare**. Integra el hub **
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing:</td>
-        <td><img height="36" src="[https://skillicons.dev/icons?i=playwright](https://mcr.microsoft.com/api/v1/catalog/productimage/6b0a4367bdeab10995bc239278f04c68c10e48adbec15e799e01909a0d66dcb9)"/></td>
+        <td><img src="https://mcr.microsoft.com/api/v1/catalog/productimage/6b0a4367bdeab10995bc239278f04c68c10e48adbec15e799e01909a0d66dcb9" height="36"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de versiones:</td>
