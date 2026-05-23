@@ -17,7 +17,7 @@ Experiencia en produccion con stacks modernos: **Remix.js · React · TypeScript
 ## Proyectos en produccion
 
 ### [LapsTime](https://lapstime.net) — Plataforma de telemetria F1 en tiempo real
-Plataforma full-stack individual desplegada en **Cloudflare** con 172+ commits. Integra el hub **SignalR** oficial de F1 con manejo propio del handshake/negociacion y reconexion automatica. Capa de API propia (Next.js Route Handlers) como proxy hacia los endpoints oficiales: drivers, standings, race-stats, race-results, championship-progress y streaming de audio de radios de equipo. Stack: **Next.js · TypeScript · Cloudflare · Python**.
+Plataforma full-stack individual desplegada en **Cloudflare**. Integra el hub **SignalR** oficial de F1 con manejo propio del handshake/negociacion y reconexion automatica. Capa de API propia (Next.js Route Handlers) como proxy hacia los endpoints oficiales: drivers, standings, race-stats, race-results, championship-progress y streaming de audio de radios de equipo. Stack: **Next.js · TypeScript · Cloudflare · Python**.
 
 ---
 
