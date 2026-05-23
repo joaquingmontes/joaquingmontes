@@ -22,7 +22,7 @@ Plataforma full-stack individual desplegada en **Cloudflare**. Integra el hub **
 ---
 
 ## Stack tecnico
-
+ 
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
@@ -30,7 +30,7 @@ Plataforma full-stack individual desplegada en **Cloudflare**. Integra el hub **
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="36" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,go,spring,dotnet,nginx"/></td>
+        <td><img height="36" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,go,dotnet"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Base de datos:</td>
@@ -42,7 +42,7 @@ Plataforma full-stack individual desplegada en **Cloudflare**. Integra el hub **
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing:</td>
-        <td><img height="36" src="https://skillicons.dev/icons?i=playwright,jest"/></td>
+        <td><img height="36" src="https://skillicons.dev/icons?i=playwright"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de versiones:</td>
