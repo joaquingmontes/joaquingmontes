@@ -4,7 +4,7 @@
 ### Student of Systems Engineering | Software Engineer | IA Engineer · Ingenieria en Sistemas, UTN (4to año)
 
 Especializado en arquitecturas escalables, desarrollo de sistemas empresariales e interfaces de alta calidad.
-Experiencia en produccion con stacks modernos: **Remix.js · React · TypeScript · .NET · Docker · AWS · Cloudflare**.
+Experiencia en produccion con stacks modernos: **React · TypeScript · .NET · Docker · AWS · Cloudflare**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquinmontes10-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquinmontes10)
 ![Profile views](https://komarev.com/ghpvc/?username=joaquingmontes&label=visitas&color=0e75b6&style=flat)
