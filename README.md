@@ -1,7 +1,7 @@
 <div align="center">
 
 # Joaquin Montes
-### Student of Systems Engineering | Software Engineer | IA Engineer · Ingenieria en Sistemas, UTN (4to año)
+### Systems Engineer | Software Engineer | IA Engineer · Ingenieria en Sistemas, UTN (4to año)
 
 Especializado en arquitecturas escalables, desarrollo de sistemas empresariales e interfaces de alta calidad.
 Experiencia en produccion con stacks modernos: **React · TypeScript · .NET · Docker · AWS · Cloudflare**.
